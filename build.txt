@@ -1,0 +1,11 @@
+author = Webmilio, Blockaroz
+side = Both
+version = 1.0.0.0
+displayName = Calamity Magnum Unleashed
+homepage = https://discord.gg/tukvh6d
+hideCode = false
+hideResources = true
+buildIgnore = *.csproj, *.user, *.bin, *.vs, *.exe, *.force, *.cache, *.FileListAbsolute.txt, *.xml, *.suo, obj\*, bin\*, .vs\*, .idea\*, .git\*, packages\*
+languageVersion = 6
+includePDB = false
+modReferences = CalamityMod@1.4.2.101
