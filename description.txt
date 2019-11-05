@@ -1,2 +1,19 @@
-﻿Want to use the Magun but Calameme is doing you an unepic ? You can now buy Magnum Rounds from the Arms Dealer after deafting King Slime/Eye of Cthulhu.
-You can also use the Magnum more than 3 times during boss battles.
+﻿Want to use the different finite weapons but Calameme is doing you an unepic ? Then this mod is for you!
+
+Quick definition:
+- Finite Weapon: a weapon that can only be used X amount of times during a boss fight (i.e. the magnum)
+- Finite Ammo: a type of ammo that cannot be obtained "infinitely" (i.e. magnum rounds)
+
+What this mod does:
+- You can now buy all types of finite ammo from the Arms Dealer after deafting their respectives bosses (see below)!
+- You can also use all finite weapons unlimited times during boss battles
+- All stack sizes for finite ammo changed to 999
+
+Defeating King Slime/Eye of Cthulhu
+- You can buy Magnum Rounds from the Arms Dealer
+
+Defeating Skeletron/Entering hard mode
+- You can buy Grenade Rounds from the Arms Dealer
+
+Defeating any mechanical boss
+- You can buy Explosive Shotgun Shells from the Arms Dealer
